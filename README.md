@@ -5,9 +5,9 @@ This is a prediction of house rents using numpy and python. It comprises of 7 fe
 ![Alt text](Visualization.png)
 
 ## Training
-Training Loss = 1.62%
+Training Loss = **1.62%**
 
 ![Alt text](TrainingLoss.png)
 
 ## Testing
-The model has test loss of 7%
+The model has test loss of **7%**
